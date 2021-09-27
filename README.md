@@ -14,7 +14,7 @@ A dynamic, Kanban-style task organizer.
 
 
 ## Usage
-To add a new task, click the "Add Task" button in the left-hand column. When prompted, enter a task description and due date. As tasks are advanced, they may be clicked and dragged to the appropriate "in progress," "in review," or "done" column. All tasks are persistent via localStorage.
+To add a new task, click the "Add Task" button in the left-hand column. When prompted, enter a task description and due date. As tasks are advanced, they may be clicked and dragged to the appropriate "in progress," "in review," or "done" column. All tasks are persistent via `localStorage`.
 
  ## Features
  - jQuery
