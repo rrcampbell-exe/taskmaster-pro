@@ -66,3 +66,7 @@ h6 {
 .btn-delete:hover {
   background-position: 1px -50px;
 }
+
+.instructions {
+  list-style-type: none;
+}
